@@ -1,41 +1,45 @@
-{
-  "jobs":[
-    {
-      "id": 1,
-      "title": "Customer Success Manager",
-      "department": "Customer Success",
-      "departmentId":1,
-      "location": "Santiago, Chile",
-      "locationId":1,
-      "roleSummary": "Bacon ipsum dolor amet brisket swine fatback, tail chicken sirloin andouille ground round pancetta venison hamburger salami short loin sausage.",
-      "responsibilities": "Bacon ipsum dolor amet brisket swine fatback, tail chicken sirloin andouille ground round pancetta venison hamburger salami short loin sausage.",
-      "otherResponsibilities": "Bacon ipsum dolor amet brisket swine fatback, tail chicken sirloin andouille ground round pancetta venison hamburger salami short loin sausage.",
-      "requirements": "Bacon ipsum dolor amet brisket swine fatback, tail chicken sirloin andouille ground round pancetta venison hamburger salami short loin sausage.",
-      "niceToHaves": "Bacon ipsum dolor amet brisket swine fatback, tail chicken sirloin andouille ground round pancetta venison hamburger salami short loin sausage."
-    }, {
-      "id": 2,
-      "title": "Data Analyst",
-      "department": "Marketing",
-      "departmentId":2,
-      "location": "Santiago, Chile",
-      "locationId":1,
-      "roleSummary": "Bacon ipsum dolor amet brisket swine fatback, tail chicken sirloin andouille ground round pancetta venison hamburger salami short loin sausage.",
-      "responsibilities": "Bacon ipsum dolor amet brisket swine fatback, tail chicken sirloin andouille ground round pancetta venison hamburger salami short loin sausage.",
-      "otherResponsibilities": "Bacon ipsum dolor amet brisket swine fatback, tail chicken sirloin andouille ground round pancetta venison hamburger salami short loin sausage.",
-      "requirements": "Bacon ipsum dolor amet brisket swine fatback, tail chicken sirloin andouille ground round pancetta venison hamburger salami short loin sausage.",
-      "niceToHaves": "Bacon ipsum dolor amet brisket swine fatback, tail chicken sirloin andouille ground round pancetta venison hamburger salami short loin sausage."
-    }, {
-      "id": 3,
-      "title": "Enterprise Support Intern",
-      "department": "Support",
-      "departmentId":3,
-      "location": "Kuala Lumpur, Malaysia",
-      "locationId":2,
-      "roleSummary": "Bacon ipsum dolor amet brisket swine fatback, tail chicken sirloin andouille ground round pancetta venison hamburger salami short loin sausage.",
-      "responsibilities": "Bacon ipsum dolor amet brisket swine fatback, tail chicken sirloin andouille ground round pancetta venison hamburger salami short loin sausage.",
-      "otherResponsibilities": "Bacon ipsum dolor amet brisket swine fatback, tail chicken sirloin andouille ground round pancetta venison hamburger salami short loin sausage.",
-      "requirements": "Bacon ipsum dolor amet brisket swine fatback, tail chicken sirloin andouille ground round pancetta venison hamburger salami short loin sausage.",
-      "niceToHaves": "Bacon ipsum dolor amet brisket swine fatback, tail chicken sirloin andouille ground round pancetta venison hamburger salami short loin sausage."
-    }
-  ]
-}
+[
+   {
+      "id":"1",
+      "jobid":"450",
+      "jobname":"Consultant, Technical Consulting",
+      "title":"Senior Technical Consultant",
+      "department":"57",
+      "departmentname":"Professional Services",
+      "location":"7",
+      "locationname":"Toronto",
+      "roleSummary":"For this senior technical consulting opportunity, we are seeking experts who have experience writing code, possess excellent consulting skills, can consistently delight our customers, and can help us grow a world class consulting practice.",
+      "responsibilities":"Bacon ipsum dolor amet brisket swine fatback, tail chicken sirloin andouille ground round pancetta venison hamburger salami short loin sausage.",
+      "otherResponsibilities":"Bacon ipsum dolor amet brisket swine fatback, tail chicken sirloin andouille ground round pancetta venison hamburger salami short loin sausage.",
+      "requirements":"Bacon ipsum dolor amet brisket swine fatback, tail chicken sirloin andouille ground round pancetta venison hamburger salami short loin sausage.",
+      "niceToHaves":"Bacon ipsum dolor amet brisket swine fatback, tail chicken sirloin andouille ground round pancetta venison hamburger salami short loin sausage."
+   }, {
+      "id":"2",
+      "jobid":"320",
+      "jobname":"Customer Success Manager",
+      "title":"Customer Success Manager",
+      "department":"32",
+      "departmentname":"Product",
+      "location":"7",
+      "locationname":"Toronto",
+      "roleSummary":"For this senior technical consulting opportunity, we are seeking experts who have experience writing code, possess excellent consulting skills, can consistently delight our customers, and can help us grow a world class consulting practice.",
+      "responsibilities":"Bacon ipsum dolor amet brisket swine fatback, tail chicken sirloin andouille ground round pancetta venison hamburger salami short loin sausage.",
+      "otherResponsibilities":"Bacon ipsum dolor amet brisket swine fatback, tail chicken sirloin andouille ground round pancetta venison hamburger salami short loin sausage.",
+      "requirements":"Bacon ipsum dolor amet brisket swine fatback, tail chicken sirloin andouille ground round pancetta venison hamburger salami short loin sausage.",
+      "niceToHaves":"Bacon ipsum dolor amet brisket swine fatback, tail chicken sirloin andouille ground round pancetta venison hamburger salami short loin sausage."
+   }, {
+      "id":"2",
+      "jobid":"551",
+      "jobname":"Data Analyst",
+      "title":"Data Analyst",
+      "department":"57",
+      "departmentname":"Professional Services",
+      "location":"2",
+      "locationname":"Santiago",
+      "roleSummary":"For this senior technical consulting opportunity, we are seeking experts who have experience writing code, possess excellent consulting skills, can consistently delight our customers, and can help us grow a world class consulting practice.",
+      "responsibilities":"Bacon ipsum dolor amet brisket swine fatback, tail chicken sirloin andouille ground round pancetta venison hamburger salami short loin sausage.",
+      "otherResponsibilities":"Bacon ipsum dolor amet brisket swine fatback, tail chicken sirloin andouille ground round pancetta venison hamburger salami short loin sausage.",
+      "requirements":"Bacon ipsum dolor amet brisket swine fatback, tail chicken sirloin andouille ground round pancetta venison hamburger salami short loin sausage.",
+      "niceToHaves":"Bacon ipsum dolor amet brisket swine fatback, tail chicken sirloin andouille ground round pancetta venison hamburger salami short loin sausage."
+   }
+]
